@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning in school
 - 📫 How to reach me: cenyaexe@gmail.com
 - 📚 Programming languages that I am currently learning: C#🎮, Python🐍, Lua📄
-- Links:
 - Itch.io: https://cenya-dev.itch.io/
 - YouTube: https://www.youtube.com/@cenya_proga
 <!---
